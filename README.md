@@ -5,7 +5,7 @@
 
 Interested in the evolving world of technology I've always wanted to know more about how the Internet works, and my background in design complements this passion. After nearly two decades in the field of education, I decided to make a career change. While researching possible industries, I decided that web design would fit both my skill in design and my passion for problem-solving.
 
-I enjoy working on the front end of web design and can leverage my skills with JavaScript, HTML, and CSS to create user interfaces that are engaging and easy to use. I am looking forward to working collaboratively with peers who enjoy creating technologies that people need and enjoy.
+I enjoy working on the front and back end of web design and can leverage my skills with JavaScript, HTML, and CSS to create user interfaces that are engaging and easy to use. I am looking forward to working collaboratively with peers who enjoy creating technologies that people need and enjoy.
 
 ### :computer: I'm Currently Working On ...
 Currently working on converting my `AJAX` project `Catch 'Em All` into a new and improved `React` project!
