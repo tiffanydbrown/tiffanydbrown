@@ -3,9 +3,11 @@
 ## 👩🏽 About Me
 :house: Based in Long Beach, CA
 
-Interested in the evolving world of technology I've always wanted to know more about how the Internet works, and my background in design complements this passion. After nearly two decades in the field of education, I decided to make a career change. While researching possible industries, I decided that web design would fit both my skill in design and my passion for problem-solving.
+Enthusiastic about the dynamic landscape of technology, I have always been intrigued by the intricacies of the Internet. Combining my extensive background in design with a genuine passion for understanding digital ecosystems, I recently transitioned from a successful two-decade career in education to pursue a path aligned with my evolving interests.
 
-I enjoy working on the front and back end of web design and can leverage my skills with JavaScript, HTML, and CSS to create user interfaces that are engaging and easy to use. I am looking forward to working collaboratively with peers who enjoy creating technologies that people need and enjoy.
+My journey led me to web design, a realm where my design expertise harmonizes seamlessly with my problem-solving zeal. Proficient in both the front and back end, I excel in crafting captivating and user-friendly interfaces using JavaScript, HTML, and CSS. Having honed my skills through hands-on experience, I am eager to contribute to innovative projects that blend technology and creativity.
+
+I am eager to collaborate with like-minded peers who share a passion for developing technologies that not only address user needs but also captivate their enjoyment. My unique combination of design proficiency and technical acumen positions me as a valuable asset in a dynamic and collaborative team environment. I am poised to make meaningful contributions to the ever-evolving field of web design.
 
 ### :computer: I'm Currently Working On ...
 Currently working on converting my `AJAX` project `Catch 'Em All` into a new and improved `React` project!
