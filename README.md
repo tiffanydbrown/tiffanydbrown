@@ -5,12 +5,12 @@
 
 Enthusiastic about the dynamic landscape of technology, I have always been intrigued by the intricacies of the Internet. Combining my extensive background in design with a genuine passion for understanding digital ecosystems, I recently transitioned from a successful two-decade career in education to pursue a path aligned with my evolving interests.
 
-My journey led me to web design, a realm where my design expertise harmonizes seamlessly with my problem-solving zeal. Proficient in both the front and back end, I excel in crafting captivating and user-friendly interfaces using JavaScript, HTML, and CSS. Having honed my skills through hands-on experience, I am eager to contribute to innovative projects that blend technology and creativity.
+My journey led me to web design, where my design expertise harmonizes seamlessly with my problem-solving zeal. Proficient in both the front and back end, I excel in crafting captivating and user-friendly interfaces using JavaScript, HTML, and CSS. Having honed my skills through hands-on experience, I am eager to contribute to innovative projects that blend technology and creativity.
 
-I am eager to collaborate with like-minded peers who share a passion for developing technologies that not only address user needs but also captivate their enjoyment. My unique combination of design proficiency and technical acumen positions me as a valuable asset in a dynamic and collaborative team environment. I am poised to make meaningful contributions to the ever-evolving field of web design.
+I am eager to collaborate with like-minded peers who share a passion for developing technologies that address user needs and captivate their enjoyment. My unique combination of design proficiency and technical acumen makes me a valuable asset in a dynamic and collaborative team environment. I am poised to make meaningful contributions to the ever-evolving field of web design.
 
 ### :computer: I'm Currently Working On ...
-Currently working on converting my `AJAX` project `Catch 'Em All` into a new and improved `React` project!
+Currently working on renovating previous projects.
 
 ### Technical Stack:
 ![Javascript](https://img.icons8.com/color/48/javascript--v1.png)
