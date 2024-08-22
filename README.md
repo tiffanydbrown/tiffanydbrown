@@ -10,7 +10,7 @@ My journey led me to web design, where my design expertise harmonizes seamlessly
 I am eager to collaborate with like-minded peers who share a passion for developing technologies that address user needs and captivate their enjoyment. My unique combination of design proficiency and technical acumen makes me a valuable asset in a dynamic and collaborative team environment. I am poised to make meaningful contributions to the ever-evolving field of web design.
 
 ### :computer: I'm Currently Working On ...
-Currently working on renovating previous projects, Bookish and Catch 'Em All.
+Currently working on renovating Catch 'Em All.
 
 ### Technical Stack:
 ![Javascript](https://img.icons8.com/color/48/javascript--v1.png)
