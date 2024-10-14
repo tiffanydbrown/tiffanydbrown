@@ -23,6 +23,10 @@ Currently working on renovating Catch 'Em All.
 ![Typescript](https://img.icons8.com/fluency/48/typescript--v2.png)
 ![Figma](https://img.icons8.com/fluency/48/figma.png)
 ![Express JS](https://img.icons8.com/officel/48/express-js.png)
+![python](https://github.com/user-attachments/assets/8887d4ef-5d19-4ad8-8244-5274579b51cd)
+![AWS](https://github.com/user-attachments/assets/439385c3-f467-44f3-bbe8-594ff390fbaa)
+
+
 
 ### :telephone: How To Reach Me:
 - LinkedIn: https://www.linkedin.com/in/tiffanydianebrown/
