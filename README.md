@@ -25,7 +25,7 @@ Currently working on renovating Catch 'Em All and Bookish.
 ![Express JS](https://img.icons8.com/officel/48/express-js.png)
 ![Python](https://img.icons8.com/plasticine/48/python.png)
 ![Next.JS](https://img.icons8.com/nolan/48/nextjs.png)
-![AWS S3](https://img.icons8.com/color/48/amazon-web-services.png)
+![AWS S3](https://img.icons8.com/nolan/48/amazon-web-services.png)
 
 
 
