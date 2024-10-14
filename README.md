@@ -10,7 +10,7 @@ My journey led me to web design, where my design expertise harmonizes seamlessly
 I am eager to collaborate with like-minded peers who share a passion for developing technologies that address user needs and captivate their enjoyment. My unique combination of design proficiency and technical acumen makes me a valuable asset in a dynamic and collaborative team environment. I am poised to make meaningful contributions to the ever-evolving field of web design.
 
 ### :computer: I'm Currently Working On ...
-Currently working on renovating Catch 'Em All.
+Currently working on renovating Catch 'Em All and Bookish.
 
 ### Technical Stack:
 ![Javascript](https://img.icons8.com/color/48/javascript--v1.png)
@@ -23,8 +23,11 @@ Currently working on renovating Catch 'Em All.
 ![Typescript](https://img.icons8.com/fluency/48/typescript--v2.png)
 ![Figma](https://img.icons8.com/fluency/48/figma.png)
 ![Express JS](https://img.icons8.com/officel/48/express-js.png)
-![python](https://github.com/user-attachments/assets/8887d4ef-5d19-4ad8-8244-5274579b51cd)
-![AWS](https://github.com/user-attachments/assets/439385c3-f467-44f3-bbe8-594ff390fbaa)
+![Python](https://img.icons8.com/plasticine/48/python.png)
+![Next.JS](https://img.icons8.com/nolan/48/nextjs.png)
+![AWS S3](https://img.icons8.com/color/48/amazon-web-services.png)
+
+
 
 
 
