@@ -1,6 +1,6 @@
 ![Tiffany Brown (1)](https://github.com/tiffanydbrown/tiffanydbrown/assets/139157669/312f4b9f-2165-49ee-9534-776429743cc8)
 
-## 👩🏽 About Me
+## 👩🏽 About Me:
 :house: Based in Long Beach, CA
 
 Enthusiastic about the dynamic landscape of technology, I have always been intrigued by the intricacies of the Internet. Combining my extensive background in design with a genuine passion for understanding digital ecosystems, I recently transitioned from a successful two-decade career in education to pursue a path aligned with my evolving interests.
@@ -27,11 +27,10 @@ Currently working on renovating Catch 'Em All and Bookish.
 ![Next.JS](https://img.icons8.com/nolan/48/nextjs.png)
 ![AWS S3](https://img.icons8.com/nolan/48/amazon-web-services.png)
 
-
-
-
-
 ### :telephone: How To Reach Me:
 - LinkedIn: https://www.linkedin.com/in/tiffanydianebrown/
 * Email: tdbrown2001@gmail.com
 
+### Professional Projects:
+#### Denture Crafters: https://www.denturecrafters.net/
+![ScreenRecording2024-10-15at3 27 54PM-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/3a4f6441-656c-4cef-8ea3-c6810035f3aa)
