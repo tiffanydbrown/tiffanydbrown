@@ -31,6 +31,6 @@ Currently working on renovating Catch 'Em All and Bookish.
 - LinkedIn: https://www.linkedin.com/in/tiffanydianebrown/
 * Email: tdbrown2001@gmail.com
 
-### Professional Projects:
+### 🏢 Professional Projects:
 #### Denture Crafters: https://www.denturecrafters.net/
 ![ScreenRecording2024-10-15at3 27 54PM-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/3a4f6441-656c-4cef-8ea3-c6810035f3aa)
