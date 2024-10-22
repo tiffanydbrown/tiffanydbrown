@@ -1,4 +1,4 @@
-![Tiffany Brown (1)](https://github.com/tiffanydbrown/tiffanydbrown/assets/139157669/312f4b9f-2165-49ee-9534-776429743cc8)
+![Tiffany Brown (2)](https://github.com/user-attachments/assets/97cca3eb-237d-492e-b99c-cfe909ff49ec)
 
 ## 👩🏽 About Me:
 :house: Based in Long Beach, CA
