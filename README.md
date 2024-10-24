@@ -3,11 +3,9 @@
 ## 👩🏽 About Me:
 :house: Based in Long Beach, CA
 
-Enthusiastic about the dynamic landscape of technology, I have always been intrigued by the intricacies of the Internet. Combining my extensive background in design with a genuine passion for understanding digital ecosystems, I recently transitioned from a successful two-decade career in education to pursue a path aligned with my evolving interests.
+I'm a Full-Stack Web Developer with experience in JavaScript, TypeScript, PostgreSQL, React, Node, Express, and Next.js. I enjoy building dynamic, responsive web applications that prioritize user experience and efficiency. I am continuously expanding my skill set and learning Python to broaden my back-end development capabilities.
 
-My journey led me to web design, where my design expertise harmonizes seamlessly with my problem-solving zeal. Proficient in both the front and back end, I excel in crafting captivating and user-friendly interfaces using JavaScript, HTML, and CSS. Having honed my skills through hands-on experience, I am eager to contribute to innovative projects that blend technology and creativity.
-
-I am eager to collaborate with like-minded peers who share a passion for developing technologies that address user needs and captivate their enjoyment. My unique combination of design proficiency and technical acumen makes me a valuable asset in a dynamic and collaborative team environment. I am poised to make meaningful contributions to the ever-evolving field of web design.
+You can explore some of my work on platforms like GitHub, where I showcase projects demonstrating my productivity, creativity, and technical expertise. From applications like Bookish, which leverages AWS S3 for user-uploaded content, to Catch 'Em All, a fun Pokémon-themed web app using REST APIs, I take pride in delivering high-quality, interactive solutions.
 
 ### :computer: I'm Currently Working On ...
 Currently working on a truck customization application.
